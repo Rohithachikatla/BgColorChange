@@ -13,7 +13,9 @@ This is a simple web application that allows users to change the background colo
 ---
 
 ##  Screenshot
-![Background Color Changer](Screenshot%202025-09-19%20110810.png)
+## 📸 Screenshot
+![Background Color Changer](bgcolorSS.png)
+
 
 ---
 
